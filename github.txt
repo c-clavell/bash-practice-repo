@@ -1,0 +1,10 @@
+git remote add origin https://github.com/c-clavell/bash-practice-repo.git
+git config --global user.name "c-clavell"
+git config --global user.email carlos.u.clavell@gmail.com
+git init
+
+
+
+touch textx.txt pop.jpg
+
+git push -u origin master
