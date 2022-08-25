@@ -7,4 +7,6 @@ git init
 
 touch textx.txt pop.jpg
 
+git add -A
+
 git push -u origin master
